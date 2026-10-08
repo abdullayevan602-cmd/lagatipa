@@ -1,0 +1,6 @@
+{
+  "name": "Marosim logotiplari",
+  "description": "O'zbekiston bayramlari va marosimlari uchun tayyor logotiplar kutubxonasi hamda jonli logotip yasash muharriri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
